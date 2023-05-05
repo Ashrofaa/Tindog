@@ -1,1 +1,1 @@
-TinDog Starting Files
+Starting files for the TinDog website
